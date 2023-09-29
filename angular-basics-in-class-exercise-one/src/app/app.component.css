@@ -1,0 +1,13 @@
+h1,
+p {
+  font-size: 30px;
+  color: blue;
+}
+
+span {
+  font-size: 40px;
+  font-weight: bold;
+  border-bottom: 3px solid black;
+  padding-inline: 2px;
+  color: red;
+}
